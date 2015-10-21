@@ -1,0 +1,31 @@
+---
+A:
+  name: Álava
+  names:
+  - Álava
+  latitude: 38.3459963
+  longitude: -0.4906855
+  min_latitude: 38.32474879999999
+  min_longitude: -0.5416291999999999
+  max_latitude: 38.3909328
+  max_longitude: -0.4034191
+B:
+  name: Biscay
+  names:
+  - Biscay
+  - Bizkaia
+  latitude: 38.994349
+  longitude: -1.8585424
+  min_latitude: 38.9714828
+  min_longitude: -1.8862798
+  max_latitude: 39.0129156
+  max_longitude: -1.834899
+G:
+  name: Gipuzkoa
+  names: Gipuzkoa
+  latitude: 36.834047
+  longitude: -2.4637136
+  min_latitude: 36.817203
+  min_longitude: -2.4855446
+  max_latitude: 36.8658532
+  max_longitude: -2.4286886
